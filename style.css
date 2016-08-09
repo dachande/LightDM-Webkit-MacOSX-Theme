@@ -6,7 +6,6 @@ body {
     margin: 0;
 
     font-size: 14px;
-    text-shadow: 1px 1px 3px black;
     -webkit-user-select: none;
 }
 
@@ -146,8 +145,8 @@ a {
 .action {
   display: inline-block;
   width: 80px;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .action_image {
@@ -158,5 +157,5 @@ a {
 }
 
 .action_label {
-  color: #B2B2B2;
+  color: #ffffff;
 }
