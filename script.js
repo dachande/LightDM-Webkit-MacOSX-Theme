@@ -58,7 +58,7 @@ function authentication_complete() {
        lightdm.login (lightdm.authentication_user, lightdm.default_session);
    else {
        show_error("Authentication Failed");
-       start_authentication(selected_user);   
+       start_authentication(selected_user);
     }
 }
 
@@ -122,7 +122,7 @@ function isVisible(element) {
 function update_time() {
   var time= document.getElementById("current_time");
   var date= new Date();
-  
+
   var hh = date.getHours();
   var mm = date.getMinutes();
   var ss = date.getSeconds();
@@ -156,11 +156,11 @@ function initialize_users() {
   for (i in lightdm.users) {
     user= lightdm.users[i];
     userNode= template.cloneNode(true);
-    
+
     var image= userNode.getElementsByClassName("user_image")[0];
     var name= userNode.getElementsByClassName("user_name")[0];
     name.innerHTML= user.display_name;
-    
+
     if (user.image) {
       image.src = user.image
       image.onerror= function(e) {
