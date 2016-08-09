@@ -18,7 +18,7 @@ input {
   font-size: 14px;
   letter-spacing: 2px;
   color: #ffffff;
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(255, 255, 255, 0.25);
 }
 
 input:focus {
@@ -28,7 +28,7 @@ input:focus {
 ::-webkit-input-placeholder {
     color: #ffffff;
     letter-spacing: 0;
-    opacity: 0.9;
+    opacity: 0.75;
 };
 
 a {
