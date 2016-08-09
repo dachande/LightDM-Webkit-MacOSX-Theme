@@ -17,31 +17,6 @@
    sodipodi:docname="restart.svg">
   <defs
      id="defs4">
-    <filter
-       inkscape:collect="always"
-       id="filter3898"
-       x="-0.11897011"
-       width="1.2379402"
-       y="-0.12103891"
-       height="1.2420778"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="16.570881"
-         id="feGaussianBlur3900" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3918"
-       x="-0.19501376"
-       width="1.3900275"
-       y="-0.16888687"
-       height="1.3377737">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="9.4024498"
-         id="feGaussianBlur3920" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -80,7 +55,7 @@
      transform="translate(0,-652.36218)">
     <path
        sodipodi:type="star"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:14.09505676999999935;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3918)"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:14.09505676999999935;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
        id="path3757"
        sodipodi:sides="3"
        sodipodi:cx="288.57144"
@@ -106,7 +81,7 @@
        sodipodi:cy="548.07648"
        sodipodi:cx="358.57144"
        id="path2984"
-       style="fill:none;stroke:#000000;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3898)"
+       style="fill:none;stroke:#000000;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
        sodipodi:type="arc" />
     <path
        transform="matrix(0.66152266,0,0,0.75052767,-16.699981,686.70179)"
@@ -123,11 +98,11 @@
        sodipodi:cx="288.57144"
        sodipodi:sides="3"
        id="path3784"
-       style="fill:#b2b2b2;fill-opacity:1;stroke:#b2b2b2;stroke-width:14.19202232;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:14.19202232;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="star" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#b2b2b2;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ffffff;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path2985"
        sodipodi:cx="358.57144"
        sodipodi:cy="548.07648"

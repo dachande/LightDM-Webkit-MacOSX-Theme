@@ -17,43 +17,6 @@
    sodipodi:docname="sleep.svg">
   <defs
      id="defs4">
-    <filter
-       inkscape:collect="always"
-       id="filter3898"
-       x="-0.11897011"
-       width="1.2379402"
-       y="-0.12103891"
-       height="1.2420778"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="16.570881"
-         id="feGaussianBlur3900" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3918"
-       x="-0.19501376"
-       width="1.3900275"
-       y="-0.16888687"
-       height="1.3377737">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="9.4024498"
-         id="feGaussianBlur3920" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3770"
-       x="-0.18093748"
-       width="1.361875"
-       y="-34.740705"
-       height="70.48141">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="17.058948"
-         id="feGaussianBlur3772" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -101,7 +64,7 @@
        sodipodi:cy="548.07648"
        sodipodi:cx="358.57144"
        id="path2984"
-       style="fill:none;stroke:#000000;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3898)"
+       style="fill:none;stroke:#000000;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
        sodipodi:type="arc" />
     <rect
        y="927.43994"
@@ -109,10 +72,10 @@
        height="1.1784872"
        width="226.27415"
        id="rect3760"
-       style="fill:none;stroke:#000000;stroke-width:31;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3770)" />
+       style="fill:none;stroke:#000000;stroke-width:31;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#b2b2b2;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ffffff;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path2985"
        sodipodi:cx="358.57144"
        sodipodi:cy="548.07648"
@@ -124,7 +87,7 @@
        sodipodi:end="6.2846738"
        sodipodi:open="true" />
     <rect
-       style="fill:none;stroke:#b2b2b2;stroke-width:31;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ffffff;stroke-width:31;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2990"
        width="226.27415"
        height="1.1784872"

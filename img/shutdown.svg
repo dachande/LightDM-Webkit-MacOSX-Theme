@@ -26,98 +26,6 @@
          offset="0"
          id="stop3802" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter3814"
-       x="-0.11072097"
-       width="1.2214419"
-       y="-0.13080272"
-       height="1.2616054">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="15.42185"
-         id="feGaussianBlur3816" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3790">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.3587572"
-         id="feGaussianBlur3792" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3861"
-       x="-0.20333333"
-       width="1.4066667"
-       y="-1.5685715"
-       height="4.137143">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.6249999"
-         id="feGaussianBlur3863" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3869">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.43463"
-         id="feGaussianBlur3871" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3881">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.43463"
-         id="feGaussianBlur3883" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3923">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.2807972"
-         id="feGaussianBlur3925" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3929"
-       x="-0.10608696"
-       width="1.2121739"
-       y="-0.13811321"
-       height="1.2762264">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.6249999"
-         id="feGaussianBlur3931" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3943"
-       x="-7.8000297"
-       width="16.600059"
-       y="-0.060465103"
-       height="1.1209302">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.7083328"
-         id="feGaussianBlur3945" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3987"
-       x="-3.7532402"
-       width="8.5064804"
-       y="-0.22581523"
-       height="1.4516305">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="11.377011"
-         id="feGaussianBlur3989" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -164,12 +72,12 @@
        sodipodi:cy="548.07648"
        sodipodi:cx="358.57144"
        id="path2984"
-       style="fill:none;stroke:#000000;stroke-width:30.29313660000000041;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3814)"
+       style="fill:none;stroke:#000000;stroke-width:30.29313660000000041;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
        sodipodi:type="arc"
        sodipodi:open="true" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#b2b2b2;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ffffff;stroke-width:30.2931366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path2985"
        sodipodi:cx="358.57144"
        sodipodi:cy="548.07648"
@@ -186,9 +94,9 @@
        height="120.91667"
        width="7.275001"
        id="rect3949"
-       style="fill:none;stroke:#000000;stroke-width:31;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3987)" />
+       style="fill:none;stroke:#000000;stroke-width:31;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;" />
     <rect
-       style="fill:none;stroke:#b2b2b2;stroke-width:29.99999809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ffffff;stroke-width:29.99999809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3947"
        width="7.275001"
        height="120.91667"
