@@ -5,24 +5,30 @@ body {
     width: 100%;
     margin: 0;
 
-    font-size: 10pt;
+    font-size: 14px;
     text-shadow: 1px 1px 3px black;
     -webkit-user-select: none;
 }
 
 input {
-  border: 1px solid white;
-  border-radius: 4px;
-  padding: 4px;
-  box-shadow: 0 0 2px 1px white;
-
-  -webkit-transition: box-shadow 0.3s ease-in-out;
+  padding: 10px;
+  border: 0 none;
+  border-radius: 6px;
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.25);
 }
 
 input:focus {
   outline: none;
-  box-shadow: 0 0 5px 2px #7DBEF1;
 }
+
+::-webkit-input-placeholder {
+    color: #ffffff;
+    letter-spacing: 0;
+    opacity: 0.75;
+};
 
 a {
   text-decoration: none;
