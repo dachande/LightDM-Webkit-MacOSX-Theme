@@ -1,7 +1,7 @@
 LightDM Webkit MacOSX Theme
 ===========================
 
-This is a LightDM theme for the Webkit greeter which tries to imitate the look and feel of the Mac OSX lion login screen
+This is a LightDM theme for the Webkit greeter which tries to imitate the look and feel of OS X El Capitan login screen.
 
 Demo:
 -------------------------
